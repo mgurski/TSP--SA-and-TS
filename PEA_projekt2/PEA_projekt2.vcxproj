@@ -23,6 +23,7 @@
     <ProjectGuid>{1DEB5A92-C2DD-412B-9DE7-999D41B2E0CA}</ProjectGuid>
     <RootNamespace>PEAprojekt2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TSP - SA and TS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
